@@ -100,7 +100,7 @@ def gen():
         file = open("credentials/results.txt", "a")
         del credentials["id"]
         del credentials["emailPassword"]
-        file.write(credentials["email"]+":"+credentials["password"])
+        file.write(credentials["email"]+":"+credentials["password"]+"\n")
         file.close()
 
 
