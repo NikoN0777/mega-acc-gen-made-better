@@ -1,1 +1,1 @@
-Update : Currently found a bug. Will be fixing it.
+Fork of [qtchaos/py-mega-account-generator](https://github.com/qtchaos/py-mega-account-generator)
